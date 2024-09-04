@@ -1,7 +1,7 @@
 # Email-SMS_Spam-_Classifier
 
 # Demo 
-https://email-smsspam-classifier.streamlit.app/
+Link: https://email-smsspam-classifier.streamlit.app/
 
 # Skills
 1. Data Analysis and visualization
