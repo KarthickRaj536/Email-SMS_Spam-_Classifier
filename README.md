@@ -30,5 +30,8 @@ The data has been collected from free or free for research sources from the Inte
 # Summary
 In conclusion, Naive Bayes Algorithm has proven to be an effective method for classifying emails as spam or not spam. The algorithm works by calculating the probability of an email belonging to a particular class based on the occurrence of certain words or features. This approach is relatively simple, but it is surprisingly accurate in practice. Overall, this project highlights the potential of machine learning algorithms like Naive Bayes for detecting spam emails. By using these techniques, we can improve email security and reduce the amount of unwanted emails that users receive.
 
+# Demo 
+https://email-smsspam-classifier.streamlit.app/
+
 
    
